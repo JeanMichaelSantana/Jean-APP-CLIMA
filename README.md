@@ -1,1 +1,2 @@
 # Jean-APP-CLIMA
+Aplicación web del clima con diseño neón azul oscuro moderno que permite consultar el clima actual de cualquier ciudad. Muestra temperatura, sensación térmica, humedad, viento, visibilidad, amanecer y atardecer en tarjetas interactivas con botón para cerrar. Incluye búsqueda con tecla Enter y diseño centrado con alto contraste. Desarrollada con Vite, Bootstrap 5 y JavaScript puro.
